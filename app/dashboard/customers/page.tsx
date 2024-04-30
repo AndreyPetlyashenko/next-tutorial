@@ -1,4 +1,4 @@
 import React from 'react'
-export default () => {
+export default function Page(){
     return <h1>Customers Page</h1>
 }
